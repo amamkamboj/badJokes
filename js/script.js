@@ -14,7 +14,7 @@ const jokeBtn = document.querySelector('#jokeBtn');
 // 		console.log(error);
 // 	})
 // }
-// Using async
+// Using async await
 
 const generateJoke = async () => {
 
