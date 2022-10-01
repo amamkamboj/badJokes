@@ -33,6 +33,5 @@ const generateJoke = async () => {
 		console.log(`The error is ${err}`);
 	}
 }
-	
 generateJoke();
 jokeBtn.addEventListener('click',generateJoke);
